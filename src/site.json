@@ -9,5 +9,6 @@
   "url": "https://travel.guidehollow.com/",
   "accent": "#387B96",
   "launchReady": true,
-  "adsReady": false
+  "adsReady": false,
+  "coupangEnabled": true
 }
